@@ -1,0 +1,12 @@
+Q2: Daily temperature range (max - min), wet days vs dry days (Luray Caverns Airport, 2015-2025)
+----------------------------------------------------------------------
+Days used:               3998  (wet = 1236, dry = 2762)
+Wet days mean range:     10.33 deg C  (std dev 4.26)
+Dry days mean range:     13.66 deg C  (std dev 4.57)
+Difference (wet - dry):  -3.33 deg C
+95% CI of difference:    [-3.62, -3.04] deg C
+Welch t-statistic:       -22.30   (df = 2532)
+p-value:                 9.82e-101
+Effect size (Cohen's d): -0.75
+Conclusion: wet days have a significantly smaller range (p < 0.05)
+Saved results/q2_plot.png

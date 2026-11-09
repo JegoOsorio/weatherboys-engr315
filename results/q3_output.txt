@@ -1,0 +1,11 @@
+Q3: Average station pressure vs average temperature (Luray Caverns Airport, 2015-2025)
+----------------------------------------------------------------------
+Days used:                 3823
+Fitted line:               pressure = -0.150 * temp + 987.0   (hPa, temp in deg C)
+Slope:                     -0.150 hPa per deg C   (95% CI [-0.171, -0.129])
+Correlation r:             -0.218
+R-squared:                 0.048  (temperature explains 4.8% of the pressure changes)
+p-value (slope = 0):       2.17e-42
+Spearman rank corr.:       -0.211  (p = 6.73e-40)
+Conclusion: weak but statistically significant negative trend
+Saved results/q3_plot.png

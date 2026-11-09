@@ -1,0 +1,12 @@
+Q1: Average station pressure, wet days vs dry days (Luray Caverns Airport, 2015-2025)
+----------------------------------------------------------------------
+Days used:               3835  (wet = 1199, dry = 2636)
+Wet days mean pressure:  982.40 hPa  (std dev 5.91)
+Dry days mean pressure:  986.17 hPa  (std dev 6.00)
+Difference (wet - dry):  -3.76 hPa
+95% CI of difference:    [-4.17, -3.36] hPa
+Welch t-statistic:       -18.19   (df = 2351)
+p-value:                 2.83e-69
+Effect size (Cohen's d): -0.63
+Conclusion: wet days have significantly lower pressure (p < 0.05)
+Saved results/q1_plot.png
