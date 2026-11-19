@@ -185,6 +185,17 @@ Saved results/q3_plot.png
 
 **Issues so far:** none that block the project. The station has no daily summary columns, so we calculate daily values from the hourly readings.
 
+## Reflections
+
+**Jego:**
+[write]
+
+**Gavin:**
+[write]
+
+**Seth:**
+[write]
+
 ## References / Source Files
 
 - Luray Caverns Airport, VA, station USW00000416, from the dataset below.
